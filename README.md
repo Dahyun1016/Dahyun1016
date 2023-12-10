@@ -1,1 +1,1 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.notion.so%2FBlog-6cc3d91211e84c358dcb04adc65be593&count_bg=%2379C83D&title_bg=%23555555&icon=notion.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+웅냥
