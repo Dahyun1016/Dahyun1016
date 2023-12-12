@@ -10,7 +10,7 @@
 
 <p align="center">
   💻 Programming Languages: Java, Python <br>
-  🚀 Frameworks: React, Flask <br>
+  🚀 Frameworks: ♡♡♡♡ <br>
   🛠️ Tools: VS Code, Git, IntelliJ, Eclipse
 </p>
 
@@ -35,4 +35,12 @@
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" alt="Git Badge"/>
   <img src="https://img.shields.io/badge/IntelliJ-%23000000.svg?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ Badge"/>
   <img src="https://img.shields.io/badge/Eclipse-%2C2C2255.svg?style=flat&logo=eclipse-ide&logoColor=white" alt="Eclipse Badge"/>
+</p>
+
+
+
+
+
+<p align="center">
+  <img src="https://github.com/Dahyun1016/Dahyun1016/raw/main/IMG_5338.JPG" alt="다현의 프로필 사진" width="300" height="450">
 </p>
