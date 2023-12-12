@@ -15,7 +15,7 @@
 <h2 align="center">🔧 Technologies & Tools</h2>
 
 <p align="center">
-  💻 Programming Languages: Java, Python, HTML, SQL, JSP <br>
+  💻 Programming Languages: Java, Python, HTML, SQL, JSP , C <br>
   🚀 Frameworks: ♡♡♡♡ <br>
   🛠️ Tools: VS Code, Git, IntelliJ, Eclipse
 </p>
@@ -65,6 +65,21 @@
     <img src="https://img.shields.io/badge/Eclipse-%2C2C2255.svg?style=flat&logo=eclipse-ide&logoColor=white" alt="Eclipse Badge"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C Badge"/>
+  </a>
+  <a href="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML Badge"/>
+  </a>
+  <a href="https://img.shields.io/badge/JSP-%23007ACC.svg?style=flat&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/JSP-%23007ACC.svg?style=flat&logo=java&logoColor=white" alt="JSP Badge"/>
+  </a>
+  <a href="https://img.shields.io/badge/SQL-%23007ACC.svg?style=flat&logo=sql&logoColor=white">
+    <img src="https://img.shields.io/badge/SQL-%23007ACC.svg?style=flat&logo=sql&logoColor=white" alt="SQL Badge"/>
+  </a>
+</p>
+
 
 <br>
 
