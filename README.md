@@ -89,6 +89,7 @@
 <br>
 <br>
 <br>
+<h2 align="center">‧₊˚✩🎧🖇️✩ ₊˚</h2>
 <p align="center">
   <a href="https://github.com/Dahyun1016">
     <img src="https://github.com/Dahyun1016/Dahyun1016/raw/main/IMG_5338.JPG" alt="다현의 프로필 사진" width="300" height="450">
