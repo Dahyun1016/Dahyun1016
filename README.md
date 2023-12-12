@@ -1,5 +1,5 @@
+[![Background Image](https://i.pinimg.com/originals/6c/eb/15/6ceb15014312ea3ae1c8561d5df1b656.jpg)](https://github.com/Dahyun1016)
 <h1 align="center"> 💖✨ DAHYUN GITHUB ✨💖</h1>
-
 <p align="center">
   <a href="https://github.com/Dahyun1016">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDahyun1016&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=DAHYUN&edge_flat=false" alt="GitHub Hits"/>
@@ -11,6 +11,7 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?si=PQbYnRKQSr4-vJzW&url=https%3A%2F%2Fyoutu.be%2FYDPBlzDPFLg&count_bg=%23FFFFFF&title_bg=%23FFAEE4&icon=youtubetv.svg&icon_color=%23E7E7E7&title=LOVE&edge_flat=false" alt="YouTube Hits"/>
   </a>
 </p>
+<br>
 
 <h2 align="center">🔧 Technologies & Tools</h2>
 
@@ -19,7 +20,7 @@
   🚀 Frameworks: ♡♡♡♡ <br>
   🛠️ Tools: VS Code, Git, IntelliJ, Eclipse
 </p>
-
+<br>
 <h2 align="center">📊 Top Languages</h2>
 
 <p align="center">
@@ -27,7 +28,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dahyun1016&layout=compact&theme=radical" alt="Top Languages"/>
   </a>
 </p>
-
+<br>
 <h3 align="center">👩‍💻💖 DAHYUN Github 💖👩‍💻</h3>
 
 <div align="center">
@@ -82,7 +83,9 @@
 
 
 <br>
-
+<br>
+<br>
+<br>
 <p align="center">
   <a href="https://github.com/Dahyun1016">
     <img src="https://github.com/Dahyun1016/Dahyun1016/raw/main/IMG_5338.JPG" alt="다현의 프로필 사진" width="300" height="450">
