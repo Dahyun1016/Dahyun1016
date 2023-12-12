@@ -1,4 +1,7 @@
-[![Background Image](https://i.pinimg.com/originals/6c/eb/15/6ceb15014312ea3ae1c8561d5df1b656.jpg)](https://github.com/Dahyun1016)
+
+ <<div align="center"> [![Background Image](https://i.pinimg.com/originals/6c/eb/15/6ceb15014312ea3ae1c8561d5df1b656.jpg)](https://github.com/Dahyun1016) </div>
+
+
 <h1 align="center"> 💖✨ DAHYUN GITHUB ✨💖</h1>
 <p align="center">
   <a href="https://github.com/Dahyun1016">
