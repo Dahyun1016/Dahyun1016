@@ -3,7 +3,7 @@
 
 
 <h1 align="center"> 💖✨ DAHYUN GITHUB ✨💖</h1>
-<h3 align="center"> 💖 프로필 코드 직접 친거니깐 훔치지 마세요^^ 💖 </h3>
+<h3 align="center"> 시험 짱 잘봐서 모두를 놀래켜야지 </h3>
 <p align="center">
   <a href="https://github.com/Dahyun1016">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDahyun1016&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=DAHYUN&edge_flat=false" alt="GitHub Hits"/>
