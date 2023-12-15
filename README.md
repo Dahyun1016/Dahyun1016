@@ -82,6 +82,10 @@
   </a>
   <a href="https://img.shields.io/badge/SQL-%23007ACC.svg?style=flat&logo=sql&logoColor=white">
     <img src="https://img.shields.io/badge/SQL-%23007ACC.svg?style=flat&logo=sql&logoColor=white" alt="SQL Badge"/>
+   <a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/CSS-%23264de4.svg?style=flat&logo=css3&logoColor=white" alt="CSS Badge"/>
+</a>
+
   </a>
 </p>
 
