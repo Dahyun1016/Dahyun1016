@@ -20,7 +20,7 @@
 <h2 align="center">🔧 Technologies & Tools</h2>
 
 <p align="center">
-  💻 Programming Languages: Java, Python, HTML, SQL, JSP , C <br>
+  💻 Programming Languages: Java, Python, HTML, CSS , SQL, JSP , C <br>
   🚀 Frameworks: ♡♡♡♡ <br>
   🛠️ Tools: VS Code, Git, IntelliJ, Eclipse
 </p>
