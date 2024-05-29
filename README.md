@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center"> 💖✨ DAHYUN GITHUB ✨💖</h1>
-<h3 align="center"> 시험 짱 잘봐서 모두를 놀래켜야지 </h3>
+<h3 align="center"> 다효니깃허브가되.. </h3>
 
 <p align="center">
   <a href="https://github.com/Dahyun1016">
@@ -29,7 +29,7 @@
 <p align="center">
   💻 Programming Languages: Java, Python, HTML, CSS, SQL, JSP, C, Kotlin <br>
   🚀 Frameworks: Anaconda <br>
-  🛠️ Tools: VS Code, Git, IntelliJ, Eclipse
+  🛠️ Tools: VS Code, Git, IntelliJ, Eclipse , Android Studio , JupyterNotebook , Google Colab 
 </p>
 
 <br>
@@ -72,8 +72,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23FF69B4.svg?style=flat&logo=java&logoColor=white" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white" alt="React Badge"/>
-  <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=flat&logo=flask&logoColor=white" alt="Flask Badge"/>
   <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode Badge"/>
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" alt="Git Badge"/>
   <img src="https://img.shields.io/badge/IntelliJ-%23000000.svg?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ Badge"/>
@@ -90,6 +88,9 @@
   <img src="https://img.shields.io/badge/Android%20Studio-346ac1.svg?style=flat&logo=android%20studio&logoColor=white" alt="Android Studio Badge"/>
   <img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Badge"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode Badge"/>
+   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=flat&logo=google-colab&logoColor=white" alt="Google Colab Badge"/>
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-%2331A8FF.svg?style=flat&logo=adobe-lightroom&logoColor=white" alt="Adobe Lightroom Badge"/>
 </p>
 
 <br>
